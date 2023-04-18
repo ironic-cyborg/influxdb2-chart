@@ -3,12 +3,12 @@ entries:
   influxdb:
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-04-02T13:53:47.628039175+05:30"
+    created: "2023-04-18T17:13:40.671284804+05:30"
     description: A Helm chart for influxdb2
-    digest: 54c68d16273481696b21498aa3519612d4e7efcc6cd3fb4b341b2c5fbacfc774
+    digest: 14d9239cb1144c73041f010cfc5392167d6720e40007339a5dcdfa91aa3018be
     name: influxdb
     type: application
     urls:
     - https://ironic-cyborg.github.io/influxdb2-chart/influxdb-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-02T13:53:47.627818057+05:30"
+generated: "2023-04-18T17:13:40.671086288+05:30"
